@@ -7,9 +7,9 @@
 Hi there, I'm <a href="https://www.yurynino.dev/" target="_blank" rel="noreferrer">Yury Niño</a> 👋
 </h3>
 
-<h2 align="center">
+<h3 align="center">
 I'm a Cloud Infrastructure Engineer @google 💻 In my free time I am Site Reliability Engineer & Chaos Engineer Advocate.
-</h2> 
+</h3> 
 
 Love sketchnotes, devops, software, automating, reading, writing and teaching.
 
