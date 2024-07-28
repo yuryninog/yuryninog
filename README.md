@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://www.yurynino.com/" target="_blank" rel="noreferrer">
-    <img src="img/banner_yuryninog.png" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm <a href="https://www.yurynino.dev/" target="_blank" rel="noreferrer">Yury Niño</a> 👋
 </h3>
